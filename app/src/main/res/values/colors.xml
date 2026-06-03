@@ -1,23 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="md_theme_light_primary">#6750A4</color>
-    <color name="md_theme_light_onPrimary">#FFFFFF</color>
-    <color name="md_theme_light_primaryContainer">#EADDFF</color>
-    <color name="md_theme_light_onPrimaryContainer">#21005D</color>
-    <color name="md_theme_light_secondary">#625B71</color>
-    <color name="md_theme_light_onSecondary">#FFFFFF</color>
-    <color name="md_theme_light_background">#FEF7FF</color>
-    <color name="md_theme_light_surface">#FEF7FF</color>
-    <color name="md_theme_light_onSurface">#1D1B20</color>
-    <color name="md_theme_light_outline">#79747E</color>
-    <color name="md_theme_dark_primary">#D0BCFF</color>
-    <color name="md_theme_dark_onPrimary">#381E72</color>
-    <color name="md_theme_dark_primaryContainer">#4F378B</color>
-    <color name="md_theme_dark_onPrimaryContainer">#EADDFF</color>
-    <color name="md_theme_dark_secondary">#CCC2DC</color>
-    <color name="md_theme_dark_onSecondary">#332D41</color>
-    <color name="md_theme_dark_background">#141218</color>
-    <color name="md_theme_dark_surface">#141218</color>
-    <color name="md_theme_dark_onSurface">#E6E1E5</color>
-    <color name="md_theme_dark_outline">#938F99</color>
+    <color name="black">#000000</color>
+    <color name="brand_primary">#3F51B5</color>
+    <color name="brand_primary_dark_variant">#303F9F</color>
+    <color name="brand_accent">#FF4081</color>
+    <color name="bg_light">#FFFFFF</color>
+    <color name="text_primary_light">#212121</color>
+    <color name="text_secondary_light">#757575</color>
+    <color name="ripple_light">#40000000</color>
+    <color name="brand_primary_dark">#1F1F1F</color>
+    <color name="brand_accent_dark">#FF80AB</color>
+    <color name="bg_dark">#121212</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_dark">#8AFFFFFF</color>
+    <color name="ripple_dark">#40FFFFFF</color>
 </resources>
