@@ -16,8 +16,8 @@
         android:pathData="M0,2 H24 M0,6 H24 M0,10 H24 M0,14 H24 M0,18 H24 M0,22 H24" />
     <group
         android:rotation="-45"
-        android:pivotX="12"
-        android:pivotY="12">
+        android:pivotX="13"
+        android:pivotY="11">
         <path
             android:strokeColor="#FF7B00"
             android:strokeWidth="1"
