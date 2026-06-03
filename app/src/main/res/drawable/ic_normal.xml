@@ -14,9 +14,14 @@
         android:strokeWidth="0.75"
         android:strokeAlpha="0.2"
         android:pathData="M0,2 H24 M0,6 H24 M0,10 H24 M0,14 H24 M0,18 H24 M0,22 H24" />
-    <path
-        android:strokeColor="#FF7B00"
-        android:strokeWidth="1"
-        android:strokeAlpha="1.0"
-        android:pathData="M6,6 " />
+    <group
+        android:rotation="-45"
+        android:pivotX="12"
+        android:pivotY="12">
+        <path
+            android:strokeColor="#FF7B00"
+            android:strokeWidth="1"
+            android:strokeAlpha="1.0"
+            android:pathData="M8,4 V16 M7.5,4.5 H16 V16 L12.25,20 L7.76,15.5" />
+    </group>
 </vector>
