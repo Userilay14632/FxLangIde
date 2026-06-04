@@ -5,29 +5,29 @@
     android:viewportWidth="24"
     android:viewportHeight="24">
     <clip-path
-        android:pathData="M 12,0
-                          A 12,12 0 1,1 12,24
-                          A 12,12 0 1,1 12,0 Z" />
+        android:pathData="M12,0 A12,12 0 1,1 12,24 A12,12 0 1,1 12,0 Z" />
     <path
-        android:strokeColor="#00FF00"
+        android:fillColor="@color/bg_light"
+        android:fillAlpha="0.75"
+        android:pathData="M0,0 H24 V24 H-24 Z" />
+    <path
+        android:strokeColor="#000000"
         android:strokeWidth="0.75"
         android:strokeAlpha="0.2"
         android:pathData="M2,0 V24 M6,0 V24 M10,0 V24 M14,0 V24 M18,0 V24 M22,0 V24" />
     <path
-        android:strokeColor="#00FF00"
+        android:strokeColor="#000000"
         android:strokeWidth="0.75"
         android:strokeAlpha="0.2"
         android:pathData="M0,2 H24 M0,6 H24 M0,10 H24 M0,14 H24 M0,18 H24 M0,22 H24" />
     <group
         android:rotation="-45"
         android:pivotX="13"
-        android:pivotY="11"
-        android:scaleX="0.9"
-        android:scaleY="0.9">
+        android:pivotY="11">
         <path
-            android:strokeColor="#FF7B00"
+            android:strokeColor="#000000"
             android:strokeWidth="1"
             android:strokeAlpha="1.0"
-            android:pathData="M8,4 V16 M7.5,4.5 H16 V16 L12.25,20 L7.76,15.5" />
+            android:pathData="M8,4 V16 M7.5,4.5 H16 V16 L12.25,20 L7.76,15.5 M8,15.5 H16" />
     </group>
 </vector>
